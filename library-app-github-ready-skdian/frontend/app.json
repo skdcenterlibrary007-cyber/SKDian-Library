@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SKDian Library",
+    "slug": "skdian-library",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.skdian.library"
+    }
+  }
+}
